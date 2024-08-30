@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This is a page for my work history, I made this because I like programming.
 <!--
 **DamianJuaGonz/DamianJuaGonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
